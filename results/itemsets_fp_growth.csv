@@ -1,0 +1,56 @@
+items,length,support,count
+Feedback_Timeliness=High,1,0.32,64
+Feedback_Timeliness=Low,1,0.275,55
+Feedback_Timeliness=Medium,1,0.405,81
+Learning_Resources=High,1,0.355,71
+Learning_Resources=Low,1,0.205,41
+Learning_Resources=Medium,1,0.44,88
+Overall_Satisfaction=High,1,0.435,87
+Overall_Satisfaction=Low,1,0.185,37
+Overall_Satisfaction=Medium,1,0.38,76
+Student_Interaction=High,1,0.465,93
+Student_Interaction=Low,1,0.265,53
+Student_Interaction=Medium,1,0.27,54
+Subject_Knowledge=High,1,0.59,118
+Subject_Knowledge=Medium,1,0.295,59
+Teaching_Clarity=High,1,0.52,104
+Teaching_Clarity=Low,1,0.16,32
+Teaching_Clarity=Medium,1,0.32,64
+Feedback_Timeliness=High & Learning_Resources=Medium,2,0.15,30
+Feedback_Timeliness=High & Student_Interaction=High,2,0.15,30
+Feedback_Timeliness=High & Subject_Knowledge=High,2,0.19,38
+Feedback_Timeliness=High & Teaching_Clarity=High,2,0.16,32
+Feedback_Timeliness=Low & Subject_Knowledge=High,2,0.155,31
+Feedback_Timeliness=Medium & Learning_Resources=High,2,0.175,35
+Feedback_Timeliness=Medium & Learning_Resources=Medium,2,0.17,34
+Feedback_Timeliness=Medium & Overall_Satisfaction=High,2,0.175,35
+Feedback_Timeliness=Medium & Overall_Satisfaction=Medium,2,0.17,34
+Feedback_Timeliness=Medium & Student_Interaction=High,2,0.185,37
+Feedback_Timeliness=Medium & Subject_Knowledge=High,2,0.245,49
+Feedback_Timeliness=Medium & Teaching_Clarity=High,2,0.22,44
+Learning_Resources=High & Overall_Satisfaction=High,2,0.17,34
+Learning_Resources=High & Student_Interaction=High,2,0.165,33
+Learning_Resources=High & Subject_Knowledge=High,2,0.215,43
+Learning_Resources=High & Teaching_Clarity=High,2,0.17,34
+Learning_Resources=Medium & Overall_Satisfaction=High,2,0.215,43
+Learning_Resources=Medium & Overall_Satisfaction=Medium,2,0.155,31
+Learning_Resources=Medium & Student_Interaction=High,2,0.22,44
+Learning_Resources=Medium & Subject_Knowledge=High,2,0.25,50
+Learning_Resources=Medium & Teaching_Clarity=High,2,0.25,50
+Overall_Satisfaction=High & Student_Interaction=High,2,0.275,55
+Overall_Satisfaction=High & Subject_Knowledge=High,2,0.275,55
+Overall_Satisfaction=High & Teaching_Clarity=High,2,0.31,62
+Overall_Satisfaction=Medium & Subject_Knowledge=High,2,0.215,43
+Overall_Satisfaction=Medium & Teaching_Clarity=High,2,0.15,30
+Overall_Satisfaction=Medium & Teaching_Clarity=Medium,2,0.165,33
+Student_Interaction=High & Subject_Knowledge=High,2,0.305,61
+Student_Interaction=High & Teaching_Clarity=High,2,0.27,54
+Student_Interaction=Medium & Subject_Knowledge=High,2,0.15,30
+Subject_Knowledge=High & Teaching_Clarity=High,2,0.28,56
+Subject_Knowledge=High & Teaching_Clarity=Medium,2,0.19,38
+Subject_Knowledge=Medium & Teaching_Clarity=High,2,0.19,38
+Learning_Resources=Medium & Overall_Satisfaction=High & Teaching_Clarity=High,3,0.16,32
+Overall_Satisfaction=High & Student_Interaction=High & Subject_Knowledge=High,3,0.195,39
+Overall_Satisfaction=High & Student_Interaction=High & Teaching_Clarity=High,3,0.205,41
+Overall_Satisfaction=High & Subject_Knowledge=High & Teaching_Clarity=High,3,0.18,36
+Student_Interaction=High & Subject_Knowledge=High & Teaching_Clarity=High,3,0.175,35

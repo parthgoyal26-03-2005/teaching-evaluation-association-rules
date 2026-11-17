@@ -1,0 +1,20 @@
+antecedent,consequent,support,confidence,lift
+Student_Interaction=High & Teaching_Clarity=High,Overall_Satisfaction=High,0.205,0.7592592592592592,1.7454235845040442
+Overall_Satisfaction=High & Subject_Knowledge=High,Student_Interaction=High,0.195,0.7090909090909091,1.5249266862170088
+Subject_Knowledge=High & Teaching_Clarity=High,Overall_Satisfaction=High,0.18,0.6428571428571428,1.477832512315271
+Learning_Resources=Medium & Teaching_Clarity=High,Overall_Satisfaction=High,0.16,0.64,1.471264367816092
+Student_Interaction=High & Subject_Knowledge=High,Overall_Satisfaction=High,0.195,0.639344262295082,1.4697569248162805
+Overall_Satisfaction=High & Student_Interaction=High,Teaching_Clarity=High,0.205,0.7454545454545454,1.4335664335664333
+Learning_Resources=Medium & Overall_Satisfaction=High,Teaching_Clarity=High,0.16,0.7441860465116279,1.4311270125223612
+Overall_Satisfaction=High & Teaching_Clarity=High,Student_Interaction=High,0.205,0.6612903225806451,1.422129725979882
+Overall_Satisfaction=High,Teaching_Clarity=High,0.31,0.7126436781609196,1.3704686118479221
+Overall_Satisfaction=High,Student_Interaction=High,0.275,0.632183908045977,1.3595352861203807
+Subject_Knowledge=High & Teaching_Clarity=High,Student_Interaction=High,0.175,0.6249999999999999,1.344086021505376
+Overall_Satisfaction=High & Subject_Knowledge=High,Teaching_Clarity=High,0.18,0.6545454545454544,1.2587412587412585
+Subject_Knowledge=Medium,Teaching_Clarity=High,0.19,0.6440677966101696,1.2385919165580184
+Overall_Satisfaction=High & Student_Interaction=High,Subject_Knowledge=High,0.195,0.7090909090909091,1.201848998459168
+Student_Interaction=High,Subject_Knowledge=High,0.305,0.6559139784946236,1.1117186076180061
+Student_Interaction=High & Teaching_Clarity=High,Subject_Knowledge=High,0.175,0.648148148148148,1.098556183301946
+Overall_Satisfaction=High,Subject_Knowledge=High,0.275,0.632183908045977,1.0714981492304696
+Learning_Resources=High,Subject_Knowledge=High,0.215,0.6056338028169014,1.0264979708761042
+Feedback_Timeliness=Medium,Subject_Knowledge=High,0.245,0.6049382716049382,1.0253191044151495
